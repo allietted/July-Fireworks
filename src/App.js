@@ -12,7 +12,7 @@ function App() {
    <>
 
     <h1
-      style ={{color:"#0000ff"}}> Fireworks Happy 4th !!!!
+      style ={{color:"#0000ff"}}>Happy 4th !!!!
     </h1>
 
     <Particles
